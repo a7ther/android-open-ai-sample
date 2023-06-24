@@ -18,7 +18,8 @@
         tools:targetApi="31">
         <activity
             android:exported="true"
-            android:name=".MainActivity">
+            android:name=".MainActivity"
+            android:theme="@style/Theme.Openaisample">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

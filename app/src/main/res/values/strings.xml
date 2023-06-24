@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">open-ai-sample</string>
+    <string name="main_screen_send">Send</string>
+    <string name="main_screen_label_input_prompt">input prompt</string>
 </resources>

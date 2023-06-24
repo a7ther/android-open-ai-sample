@@ -21,6 +21,8 @@ private interface RetrofitOpenAiApi {
 }
 
 private const val OPEN_AI_API_BASE_URL = "https://api.openai.com/"
+
+//XXX: サンプルのため、ここにおいてますが、API_KEYは外部から取得するようにしてください
 private const val OPENAI_API_KEY = "{YOUR_API_KEY}"
 
 @Singleton
