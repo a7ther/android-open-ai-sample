@@ -1,0 +1,7 @@
+appId: com.example.open_ai_sample.debug
+---
+- launchApp
+- tapOn: "input prompt"
+- inputText: "Hello World"
+- tapOn: "Send"
+- assertVisible: "ERROR : HTTP 401 "
